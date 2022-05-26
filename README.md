@@ -11,7 +11,7 @@ Custom animation of login button.
     src="https://user-images.githubusercontent.com/101565812/170466395-d2f4558a-6691-470d-bfc5-556e57c91fbf.gif" >
 </p>
 
-#### slow version
+### slow version
 
 <p align="center">
   <img 
