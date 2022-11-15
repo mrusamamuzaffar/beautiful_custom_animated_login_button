@@ -2,6 +2,10 @@
 
 Custom animation of login button.
 
+✔️ Sound NullSafety
+
+## GIFs
+
 ### orignal version
 
 <p align="center">
